@@ -1,4 +1,9 @@
-
+09/11/2022
+I solved the Pascal Triangle II problem on [LeetCode](leetcode.com)
+There are two solutions
+- 1 This solution utilize the formula for nth row using serial combinations available on [GeeksFoGeeks](https://www.geeksforgeeks.org/pascals-triangle-formula/),
+- 2 The second solution  iteratively calculates each row, deriving the subsequent row until our desired row is reached.
+git 
 02/11/2022
 I solved the Pascal Triangle Problem on [LeetCode](leetcode.com)
 The Worst case time complexity is O(n2)

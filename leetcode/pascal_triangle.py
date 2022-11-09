@@ -13,3 +13,4 @@ class Solution:
                 val = pascal_triangle[i-1][j-1] + pascal_triangle[i-1][j]
                 pascal_triangle[i].insert(j, val)
         return pascal_triangle
+

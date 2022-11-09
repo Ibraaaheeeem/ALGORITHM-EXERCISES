@@ -33,7 +33,6 @@ class Solution:
         while temp_head and temp_head.next:
             if temp_head.val == temp_head.next.val:
                 temp_head.next = temp_head.next.next
-                
             else:
                 temp_head = temp_head.next
         return head
